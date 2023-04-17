@@ -1,6 +1,6 @@
 # Link Prediction Results #
 <br>
-Used YouTube collaaboration graph from Koch et al. (2018).
+Used YouTube collaboration graph from Koch et al. (2018).
 <br><br>
 
 **Using Similarity Measures**<br>

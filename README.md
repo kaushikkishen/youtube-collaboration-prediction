@@ -1,4 +1,4 @@
-# Link Prediction Results #
+# Link Prediction on YouTube Collaboration Network #
 <br>
 Used YouTube collaboration graph from Koch et al. (2018).
 <br><br>

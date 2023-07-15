@@ -50,3 +50,10 @@ Trained using StellarGraph library.<br>
 
 **References:**<br>
 Christian Koch, Moritz Lode, Denny Stohr, Amr Rizk, & Ralf Steinmetz. (2018). Collaborations on YouTube: From Unsupervised Detection to the Impact on Video and Channel Popularity.
+
+**Collaborators:**<br>
+Nathan Casanova - https://www.linkedin.com/in/natescasanova/ <br>
+Kaushik Asok - https://www.linkedin.com/in/kaushik-asok-002b19169/<br>
+Prasanna Govindarajan - https://www.linkedin.com/in/prasannagovindarajan/
+Anusha Mediboina  - https://www.linkedin.com/in/anusha-mediboina/
+Janita Bose - https://www.linkedin.com/in/janitabose/
